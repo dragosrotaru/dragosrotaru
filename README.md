@@ -2,7 +2,13 @@
 
 You should visit my site if you wish to hire me: [dragosrotaru.com](https://dragosrotaru.com)
 
-You're in luck because I am currently looking for work.
+You're in luck because I am currently looking for work. [Resume](https://dragosrotaru.com/resume.pdf)
+
+Im a full stack dev, 7ish years experience, mostly Typescript, React, Node, Postgres, AWS. 
+I've done other stuff - C#, Golang, Python, Ruby, C, Lisp, whatever. I prefer strongly typed languages.
+
+I like to work on refactoring, SDLC process improvements, fixing org/people issues or architecture scaling problems.
+I've been a practitioner of Domain Driven Design, Event sourcing, CQRS and Hexagonal/Clean Architecture for 4ish years.
 
 ## My Projects 🛠️
 
