@@ -14,4 +14,4 @@ My projects are split up across multiple organizations to make it easier for me 
 - [TravellerTools](https://github.com/travellertools) - Data and software tools for travellers, nomads, etc
 - [HaramCore](https://github.com/haramcore) \- Anything Artsy - my synthesizers, music, etc
 - [Rotaru & Co](https://github.com/rotaruco) \- All my client work (mostly closed source)
- [Huckleberry Labs](https://github.com/huckleberrylabs) \- Real estate tools
+- [Huckleberry Labs](https://github.com/huckleberrylabs) \- Real estate tools
