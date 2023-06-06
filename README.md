@@ -1,8 +1,8 @@
 # Howdy Partner 🤠
 
-You're in luck because I am currently looking for work.
-
 You should visit my site if you wish to hire me: [dragosrotaru.com](https://dragosrotaru.com)
+
+You're in luck because I am currently looking for work.
 
 ## My Projects 🛠️
 
