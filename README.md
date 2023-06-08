@@ -1,8 +1,6 @@
 # Howdy Partner 🤠
 
-You should visit my site if you wish to hire me: [dragosrotaru.com](https://dragosrotaru.com)
-
-You're in luck because I am currently looking for work. [Resume](https://dragosrotaru.com/resume.pdf)
+You should visit my site if you wish to hire me, see my projects or read my blog: [dragosrotaru.com](https://dragosrotaru.com)
 
 ## Projects 🛠️
 
