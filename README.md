@@ -4,14 +4,7 @@ You should visit my site if you wish to hire me: [dragosrotaru.com](https://drag
 
 You're in luck because I am currently looking for work. [Resume](https://dragosrotaru.com/resume.pdf)
 
-Im a full stack dev, 7ish years experience, mostly Typescript, React, Node, Postgres, AWS. 
-I've done other stuff - C#, Golang, Python, Ruby, C, Lisp, whatever. I prefer statically typed languages but I like to play with 
-homoiconic meta-circular interpreters.
-
-I like to work on refactoring, SDLC process improvements, fixing org/people issues or architecture scaling problems.
-I've been a practitioner of Domain Driven Design, Event sourcing, CQRS and Hexagonal/Clean Architecture for 4ish years.
-
-## My Projects 🛠️
+## Projects 🛠️
 
 My projects are split up across multiple organizations to make it easier for me to keep track of
 
